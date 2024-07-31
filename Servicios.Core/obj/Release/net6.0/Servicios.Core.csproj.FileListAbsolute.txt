@@ -1,0 +1,132 @@
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\bin\Release\net6.0\Servicios.Core.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\refint\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Core\obj\Release\net6.0\ref\Servicios.Core.dll

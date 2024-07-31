@@ -1,0 +1,1231 @@
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.Servicios.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.build.Servicios.Api.props
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.Api.props
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Servicios.Api.props
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.Servicios.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.build.Servicios.Api.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.Api.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Servicios.Api.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Azure.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Federation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Azure.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Federation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Azure.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Federation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\msvcp140.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Azure.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Federation.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.Servicios.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.build.Servicios.Api.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.Api.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Servicios.Api.props
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Azure.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Federation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Azure.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\RestSharp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Federation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\appsettings.Development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\appsettings.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\archivos\chat.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\archivos\datos_tuya.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\archivos\datos_tuya_old.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\archivos\ivr.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Api.exe
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Api.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Api.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\AutoMapper.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Azure.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\FluentValidation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Humanizer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\MySql.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Ubiety.Dns.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Zstandard.Net.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\RestSharp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Renci.SshNet.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Federation.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\scopedcss\bundle\Servicios.Api.styles.css
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\refint\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\Servicios.Api.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\obj\Release\net6.0\ref\Servicios.Api.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Api\bin\Release\net6.0\System.Web.Http.Cors.dll

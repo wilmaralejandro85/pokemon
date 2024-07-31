@@ -1,0 +1,484 @@
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\pedro\source\repos\emtelco\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Downloads\emtelco - Template (2)\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\TIGO_API_PANTALLA_UNICA\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_pantalla_unica\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_movil\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\Capacitacion\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\migracionAlta\Metodo\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+D:\Fernando\dsll_API\GENERALES\VS_API_generales\v_final\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\fbadqui\OneDrive - Emtelco\Documentos\Proyectos\tigo\tigoGenerales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales (2)\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Movil\api\api_tigo_generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Generales\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\stobonc\Desktop\Desarrollos big bang\api_tigo_generales\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Cens final\api_cens\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\web\Novaventa\api_novaventa\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuya - copia - copia\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\WGUTIRAM\Documents\Wilmar\Migración\Tuya\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.AssemblyInfo.cs
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.sourcelink.json
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\msvcp140.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.deps.json
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.runtimeconfig.json
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.csproj.CopyComplete
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\refint\Servicios.Infrastructure.dll
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.pdb
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\Servicios.Infrastructure.genruntimeconfig.cache
+C:\Users\ALEJO\Downloads\api_tuyaFinal (1)\api_tuyaFinal\Servicios.Infrastructure\obj\Debug\net6.0\ref\Servicios.Infrastructure.dll
